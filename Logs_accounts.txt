@@ -1,8 +1,8 @@
 {
     "carryminati555@outlook.com": {
-        "Last check": "2023-05-05",
-        "Today's points": 530,
-        "Points": 2753
+        "Last check": "2023-05-06",
+        "Today's points": 440,
+        "Points": 3193
     },
-    "Elapsed time": "00:13:32"
+    "Elapsed time": "00:12:03"
 }
